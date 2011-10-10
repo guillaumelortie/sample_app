@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/home/guillaume/workspace/sample_app/app/controllers/pages_controller.rb</file>
-        <file>file:/home/guillaume/workspace/sample_app/app/views/pages/home.html.erb</file>
-        <file>file:/home/guillaume/workspace/sample_app/app/views/pages/contact.html.erb</file>
-        <file>file:/home/guillaume/workspace/sample_app/spec/controllers/pages_controller_spec.rb</file>
-    </open-files>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
 </project-private>
